@@ -1,6 +1,6 @@
 { "Version": [
 {
-"version":"3.3",
+"version":"3.4",
 "error":"01",
 "package":"com.myhilapon.bencoloringherosultimate",
  "ads":"false",
@@ -11,7 +11,7 @@
 ],
 "Controle": [
 {
-"version":"3.3",
+"version":"3.4",
 "error": "01"
 }
 ]
